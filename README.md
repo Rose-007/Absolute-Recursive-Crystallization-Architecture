@@ -4,6 +4,8 @@ Op-Amp-Cognitive-AI-Framework
 
 ## System Architecture
 
+[[Original post (Thai)](https://www.facebook.com/share/p/1DqkwJ3ydu/)](
+![](LLM_AI.png)
 
 ```
 
